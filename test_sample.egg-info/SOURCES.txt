@@ -1,0 +1,6 @@
+README.md
+test_sample.py
+test_sample.egg-info/PKG-INFO
+test_sample.egg-info/SOURCES.txt
+test_sample.egg-info/dependency_links.txt
+test_sample.egg-info/top_level.txt
