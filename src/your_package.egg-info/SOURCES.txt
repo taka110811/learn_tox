@@ -1,0 +1,8 @@
+README.md
+src/your_package/__init__.py
+src/your_package.egg-info/PKG-INFO
+src/your_package.egg-info/SOURCES.txt
+src/your_package.egg-info/dependency_links.txt
+src/your_package.egg-info/top_level.txt
+tests/test_pandas.py
+tests/test_sample.py
